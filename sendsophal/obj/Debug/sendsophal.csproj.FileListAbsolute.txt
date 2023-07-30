@@ -1,0 +1,11 @@
+D:\Software Internship\Backend\ASP.NET\Insert value\sendsophal\bin\Debug\sendsophal.exe.config
+D:\Software Internship\Backend\ASP.NET\Insert value\sendsophal\bin\Debug\sendsophal.exe
+D:\Software Internship\Backend\ASP.NET\Insert value\sendsophal\bin\Debug\sendsophal.pdb
+D:\Software Internship\Backend\ASP.NET\Insert value\sendsophal\obj\Debug\sendsophal.csproj.AssemblyReference.cache
+D:\Software Internship\Backend\ASP.NET\Insert value\sendsophal\obj\Debug\sendsophal.csproj.SuggestedBindingRedirects.cache
+D:\Software Internship\Backend\ASP.NET\Insert value\sendsophal\obj\Debug\sendsophal.Form1.resources
+D:\Software Internship\Backend\ASP.NET\Insert value\sendsophal\obj\Debug\sendsophal.Properties.Resources.resources
+D:\Software Internship\Backend\ASP.NET\Insert value\sendsophal\obj\Debug\sendsophal.csproj.GenerateResource.cache
+D:\Software Internship\Backend\ASP.NET\Insert value\sendsophal\obj\Debug\sendsophal.csproj.CoreCompileInputs.cache
+D:\Software Internship\Backend\ASP.NET\Insert value\sendsophal\obj\Debug\sendsophal.exe
+D:\Software Internship\Backend\ASP.NET\Insert value\sendsophal\obj\Debug\sendsophal.pdb
